@@ -1,0 +1,8 @@
+{
+  "name": "mkt-dashboard",
+  "main": "worker.js",
+  "compatibility_date": "2026-07-08",
+  "kv_namespaces": [
+    { "binding": "KV", "id": "0053b949cfcb47b3a8c372b72bdbda51" }
+  ]
+}
